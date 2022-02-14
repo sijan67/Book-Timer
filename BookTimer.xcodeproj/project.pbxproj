@@ -13,6 +13,7 @@
 		3D0C2D7B278CFE6600318198 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D0C2D79278CFE6600318198 /* Main.storyboard */; };
 		3D0C2D7D278CFE6A00318198 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D0C2D7C278CFE6A00318198 /* Assets.xcassets */; };
 		3D0C2D80278CFE6A00318198 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D0C2D7E278CFE6A00318198 /* LaunchScreen.storyboard */; };
+		3D9CCD9C2792F61300F81476 /* bell-notification-tune-long.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D9CCD9B2792F61300F81476 /* bell-notification-tune-long.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3D0C2D7C278CFE6A00318198 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D0C2D7F278CFE6A00318198 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3D0C2D81278CFE6A00318198 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D9CCD9B2792F61300F81476 /* bell-notification-tune-long.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "bell-notification-tune-long.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				3D0C2D7C278CFE6A00318198 /* Assets.xcassets */,
 				3D0C2D7E278CFE6A00318198 /* LaunchScreen.storyboard */,
 				3D0C2D81278CFE6A00318198 /* Info.plist */,
+				3D9CCD9B2792F61300F81476 /* bell-notification-tune-long.mp3 */,
 			);
 			path = BookTimer;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				3D0C2D80278CFE6A00318198 /* LaunchScreen.storyboard in Resources */,
 				3D0C2D7D278CFE6A00318198 /* Assets.xcassets in Resources */,
+				3D9CCD9C2792F61300F81476 /* bell-notification-tune-long.mp3 in Resources */,
 				3D0C2D7B278CFE6600318198 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
