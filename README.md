@@ -1,4 +1,4 @@
-# DiceRoll App
+# BookTimer App
 With this book timer app , you can time your reading and and when the timer is over 
 a beautiful music gets played. 
 
